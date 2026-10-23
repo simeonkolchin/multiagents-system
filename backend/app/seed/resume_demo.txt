@@ -1,0 +1,36 @@
+Семён Колчин — ML Engineer
+Контакты: github.com/simeonkolchin | work@ksimeon.ru | t.me/simeon_kolchin
+
+Кратко:
+MLE: LLM, agentic workflows, RAG. 2,5+ года в коммерции, 25+ ML-проектов.
+Довожу мультиагентные системы, GraphRAG и LLM-пайплайны от PoC до прода:
+MCP, eval, fine-tuning, self-hosted LLM.
+
+Опыт работы:
+Ведущий разработчик (ML), МТС (DevSecOps AI), 01.2025 — н.в.
+- Веду ML-направление: roadmap, архитектура и delivery AI-продуктов, менторинг.
+- DeDAST AI — LLM-триаж уязвимостей DAST (true/false positive): ~2500 в месяц,
+  precision 81,3%, recall 91,7%.
+- Service Desk RAG — мультиагентный ассистент на Confluence: 350+ пользователей,
+  60% обращений закрывается без оператора.
+- Self-hosted LLM: Qwen на vLLM (A100), LoRA fine-tuning.
+
+Middle ML Engineer (part-time), Robolance, 04.2025 — 07.2026
+- Ontorix — on-prem мультиагентная аналитика: GraphRAG над 9,45 млн записей,
+  медиана ответа 13,2 → 5,2 c.
+- BotAnn — AI-рекрутинг: hybrid search и LLM-скоринг по 2 млн резюме.
+
+ML Engineer + Data Analyst, FastDeploy, 08.2024 — 11.2024
+- OCR-пайплайн счетов, RAG-движок поддержки, real-time CV-аналитика матчей.
+
+Образование:
+ВШЭ ФКН, Прикладная математика и информатика, 2023–2027.
+ML/DL, CV, RL, алгоритмы (Python/C++), линал, матан, теорвер, матстат.
+
+Навыки:
+Python, C++; multi-agent systems, MCP, LangChain, LangGraph; hybrid search,
+GraphRAG, reranking (Weaviate, Qdrant, Neo4j); vLLM, LoRA; PyTorch, scikit-learn,
+CatBoost, YOLOv8; FastAPI, Celery, Redis, Kafka, PostgreSQL, Docker, Linux.
+
+Соревнования: призёр «Цифрового прорыва» (CatBoost, SHAP), 6 призовых мест на
+хакатонах (МТС, Сбербанк, Татнефть).
